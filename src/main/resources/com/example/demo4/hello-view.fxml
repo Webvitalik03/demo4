@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="404.0" prefWidth="554.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo4.HelloController">
+   <children>
+      <VBox alignment="CENTER" layoutX="14.0" layoutY="48.0" prefHeight="211.0" prefWidth="122.0">
+         <children>
+            <Button mnemonicParsing="false" onMouseClicked="#GetAuthorButtonClick" prefHeight="34.0" prefWidth="125.0" text="Разработчик" />
+            <Button mnemonicParsing="false" onMouseClicked="#GetUnitButtonClick" prefHeight="34.0" prefWidth="125.0" text="Подразделение" />
+            <Button mnemonicParsing="false" onMouseClicked="#GetChiefButtonClick" prefHeight="34.0" prefWidth="125.0" text="Руководитель" />
+            <Button mnemonicParsing="false" onMouseClicked="#GetVersionButtonClick" prefHeight="34.0" prefWidth="125.0" text="Версия" />
+            <Button mnemonicParsing="false" onMouseClicked="#GetPOVersionButtonClick" prefHeight="34.0" prefWidth="125.0" text="Сведения о ПО" />
+            <Button mnemonicParsing="false" onMouseClicked="#GetDescriptionButtonClick" prefHeight="34.0" prefWidth="125.0" text="Описание" />
+         </children>
+      </VBox>
+      <HBox alignment="BASELINE_CENTER" layoutY="259.0" prefHeight="146.0" prefWidth="527.0">
+         <children>
+            <Label fx:id="ShowMessageLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="146.0" prefWidth="530.0" />
+         </children>
+      </HBox>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="48.0" layoutY="14.0" prefHeight="34.0" prefWidth="54.0" text="Mk III" />
+      <Button fx:id="GoMenuViewButton" layoutX="228.0" layoutY="122.0" mnemonicParsing="false" onMouseClicked="#GoSceneMenu" prefHeight="63.0" prefWidth="146.0" text="Перейти в меню" />
+      <Button fx:id="GoExitButton" layoutX="96.0" layoutY="19.0" mnemonicParsing="false" onMouseClicked="#GoExitFunc" text="Выход" />
+   </children>
+</AnchorPane>

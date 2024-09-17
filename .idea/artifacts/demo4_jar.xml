@@ -1,0 +1,98 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="demo4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo4_jar</output-path>
+    <root id="archive" name="demo4.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/dt_socket.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/java.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-private-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-synch-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/management_agent.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/prefs.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/windowsaccessbridge-64.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-processthreads-l1-1-1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/j2gss.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-process-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-fibers-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-sysinfo-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/awt.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-file-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/verify.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/fontmanager.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-runtime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jli.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-profile-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/saproc.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/vcruntime140_1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/attach.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/sspi_bridge.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/management_ext.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-datetime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-stdio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-time-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/msvcp140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-console-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-console-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/lcms.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/ktab.exe" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/javajpeg.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jdwp.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jaas.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-convert-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-string-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/javaaccessbridge.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/le.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/mlib_image.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/extnet.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-localization-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/nio.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-conio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/j2pkcs11.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-synch-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/syslookup.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-filesystem-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/ucrtbase.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/zip.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/management.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-processthreads-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/freetype.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/j2pcsc.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/instrument.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/splashscreen.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jimage.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-memory-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/sunmscapi.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-processenvironment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jawt.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-utility-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-debug-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-util-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-interlocked-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-timezone-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/rmi.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jsvml.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-file-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-file-l2-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/vcruntime140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-multibyte-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jsound.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-namedpipe-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-handle-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-math-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/jpackage.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/w2k_lsa_auth.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-libraryloader-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/net.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-locale-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-errorhandling-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-crt-environment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/dt_shmem.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../jfx/bin/api-ms-win-core-string-l1-1-0.dll" />
+    </root>
+  </artifact>
+</component>

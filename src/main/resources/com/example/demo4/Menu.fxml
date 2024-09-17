@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="435.0" prefWidth="554.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo4.MenuController">
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="14.0" layoutY="14.0" prefHeight="34.0" prefWidth="54.0" text="Mk III" />
+      <Button fx:id="GoHelloViewButton" layoutX="68.0" layoutY="18.0" mnemonicParsing="false" onMouseClicked="#GoSceneHello" text="Вернуться" />
+      <Label layoutX="233.0" layoutY="73.0" text="Выбор функции" />
+      <VBox layoutX="217.0" layoutY="106.0" prefHeight="200.0" prefWidth="135.0">
+         <children>
+            <Button fx:id="GoTestFuncViewButton" mnemonicParsing="false" onMouseClicked="#GoSceneTest" prefHeight="26.0" prefWidth="142.0" text="Test functions" />
+            <Button fx:id="GoTestDesignViewButton" mnemonicParsing="false" onMouseClicked="#GoSceneTestDesign" prefHeight="26.0" prefWidth="142.0" text="Test design" />
+            <Button fx:id="GoTestFuncSecaViewButton" mnemonicParsing="false" onMouseClicked="#GoSceneTestSeca" prefHeight="26.0" prefWidth="134.0" text="Test functions seca" />
+            <Button fx:id="AlarmClockButt" mnemonicParsing="false" onMouseClicked="#GoAlarmClock" prefHeight="26.0" prefWidth="135.0" text="Alarm Clock" />
+            <Button fx:id="AESButton" mnemonicParsing="false" onMouseClicked="#GoAes" prefHeight="26.0" prefWidth="134.0" text="AES" />
+            <Button fx:id="GoTDESAESButton" mnemonicParsing="false" onMouseClicked="#GoTDESAESFunc" prefHeight="26.0" prefWidth="139.0" text="TrIpleDES and AES" />
+         </children>
+      </VBox>
+      <Button layoutX="266.0" layoutY="329.0" mnemonicParsing="false" onAction="#ShowDialogInfo" text="Info" />
+      <Button fx:id="GoProjButton" layoutX="36.0" layoutY="155.0" mnemonicParsing="false" onMouseClicked="#GoProject" prefHeight="50.0" prefWidth="135.0" text="Enter proto MK IV" />
+   </children>
+</AnchorPane>

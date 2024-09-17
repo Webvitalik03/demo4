@@ -1,0 +1,4 @@
+Stroke one
+Stroke two
+Another one stroke
+Some strokes
